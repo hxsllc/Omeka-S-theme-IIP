@@ -48,12 +48,14 @@ https://github.com/omeka/omeka-s
  To customize the UI to your project, you will want to modify the following portion of the theme:
  
  *Banner graphic*   
+ 
  The banner file is coded into the theme directly, at **files/asset/6394f1d86f058a725b421882d1c69a8cf986fbb2.png**
 ![Screenshot of theme banner](docs/screenshot7.png?raw=true "Screenshot of theme banner")
 
  You will find the site banner coded into **/view/layout/layout.phtml** in the tag **`<a id="institution-logo">`**
  
- *Logo image*
+ *Logo image*   
+ 
  The logo file is not set by default, and can be uploaded/attached via *Sites > Theme > Edit theme settings*. The logo appears in the top right corner, to the right of the banner. An appropriate size/ratio would be around 250px by 75px.
 
 ![Screenshot of theme header with logo outlined in blue](docs/screenshot6.png?raw=true "Screenshot of theme header with logo")
