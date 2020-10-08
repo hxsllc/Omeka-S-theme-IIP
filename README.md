@@ -47,7 +47,7 @@ https://github.com/omeka/omeka-s
 
 # Customization
 
- To customize the theme to your project, you will want to modify the following portions of the theme:
+ To customize the theme to your project beyond the Theme Settings available in the Omeka UI, you will want to modify the following portions of the theme files:
  
  *Banner graphic*   
  
@@ -67,4 +67,6 @@ https://github.com/omeka/omeka-s
  *Sidebar*
  
  The sidebar is coded into the theme directly at **view/common/refine-list.phtml**. 
+
+![Screenshot of theme sidebar with default terms](docs/screenshot9.png?raw=true "Screenshot of theme sidebar")
  
