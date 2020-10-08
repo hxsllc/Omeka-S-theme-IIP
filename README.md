@@ -3,7 +3,8 @@
 
 Created by Anneliese Dehner http://anneliesedehner.com/, 2017
 
-Compatible with Omeka-S v1.1 and Omeka-S 2.x (latest tested, 2.1.2)
+Compatible with Omeka-S v1.1 and Omeka-S 2.x (latest tested, 2.1.2)  
+https://github.com/omeka/omeka-s
 
 ![Screenshot of theme in production](docs/screenshot1.png?raw=true "Screenshot of theme")
 
