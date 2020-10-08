@@ -12,7 +12,7 @@ https://github.com/omeka/omeka-s
  *Reference module (daniel-km)*  
  https://github.com/Daniel-KM/Omeka-S-module-Reference
  
- *Generic module (daniel-km)* (required by Reference)
+ *Generic module (daniel-km)* (required by Reference)   
  https://github.com/Daniel-KM/Omeka-S-module-Generic
  
 # Theme features
