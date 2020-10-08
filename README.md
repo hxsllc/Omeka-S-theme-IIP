@@ -8,7 +8,7 @@ Compatible with Omeka-S v1.1 and Omeka-S 2.x (latest tested, 2.1.2)
 ![Screenshot of theme in production](docs/screenshot1.png?raw=true "Screenshot of theme")
 
 # Theme requirements
- *Reference module (daniel-km)*
+ *Reference module (daniel-km)*  
  https://github.com/Daniel-KM/Omeka-S-module-Reference
  
 # Theme features
