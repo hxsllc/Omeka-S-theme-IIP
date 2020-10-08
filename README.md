@@ -27,11 +27,13 @@ https://github.com/omeka/omeka-s
 ![Screenshot of grid view in Item Browse](docs/screenshot4.png?raw=true "Screenshot of grid view")
  
  *"Quick search" sidebar*  
- Requires Reference module. Does not provide multi-click faceted searching, just one-click searches.
+ Utilizes Reference module. Does not provide multi-click faceted searching, just one-click searches.
 
 ![Screenshot of term lists in Item Browse](docs/screenshot5.png?raw=true "Screenshot of term lists")
  
 # Theme settings
+![Screenshot of theme settings in admin area](docs/screenshot8.png?raw=true "Screenshot of theme settings")
+
  *Top Navigation Depth*  
  Maximum number of levels to show in the site's top navigation bar. Set to 0 to show all levels.
 
