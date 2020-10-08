@@ -47,7 +47,7 @@ https://github.com/omeka/omeka-s
 
  To customize the UI to your project, you will want to modify the following portion of the theme:
  
- *Banner graphic*
+ *Banner graphic*   
  The banner file is coded into the theme directly, at **files/asset/6394f1d86f058a725b421882d1c69a8cf986fbb2.png**
 ![Screenshot of theme banner](docs/screenshot7.png?raw=true "Screenshot of theme banner")
 
