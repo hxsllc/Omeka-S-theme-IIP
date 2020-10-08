@@ -54,9 +54,11 @@ https://github.com/omeka/omeka-s
 
  You will find the site banner coded into **/view/layout/layout.phtml** in the tag **`<a id="institution-logo">`**
  
+ The banner can vary in width from a small square, to a rectangle, to extending across the entire screen.
+ 
  *Logo image*   
  
- The logo file is not set by default, and can be uploaded/attached via *Sites > Theme > Edit theme settings*. The logo appears in the top right corner, to the right of the banner. An appropriate size/ratio would be around 250px by 75px.
+ The logo file is not set by default, and can be uploaded/attached via *Sites > Theme > Edit theme settings*. The logo appears in the top right corner, to the right of the banner (outlined in blue in the example screenshot below). An appropriate size/ratio would be around 250px by 75px.
 
 ![Screenshot of theme header with logo outlined in blue](docs/screenshot6.png?raw=true "Screenshot of theme header with logo")
  
